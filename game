@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title> BTS Website</title>
+        alert("Marhaba")
+        <script>
+        let paper = 1
+        let scissors = 2
+        let rock = 3
